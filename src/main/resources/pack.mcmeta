@@ -1,0 +1,160 @@
+{
+  "pack": {
+    "description": {
+      "text": "${mod_name} - secure login support"
+    },
+    "pack_format": 15
+  },
+  "language": {
+    "en_us": {
+      "name": "English",
+      "region": "United States",
+      "bidirectional": false
+    },
+    "ru_ru": {
+      "name": "Russian",
+      "region": "Russia",
+      "bidirectional": false
+    },
+    "zh_cn": {
+      "name": "Chinese (Simplified)",
+      "region": "China",
+      "bidirectional": false
+    },
+    "hi_in": {
+      "name": "Hindi",
+      "region": "India",
+      "bidirectional": false
+    },
+    "es_es": {
+      "name": "Spanish",
+      "region": "Spain",
+      "bidirectional": false
+    },
+    "fr_fr": {
+      "name": "French",
+      "region": "France",
+      "bidirectional": false
+    },
+    "ar_sa": {
+      "name": "Arabic",
+      "region": "Saudi Arabia",
+      "bidirectional": true
+    },
+    "bn_bd": {
+      "name": "Bengali",
+      "region": "Bangladesh",
+      "bidirectional": false
+    },
+    "pt_br": {
+      "name": "Portuguese (Brazil)",
+      "region": "Brazil",
+      "bidirectional": false
+    },
+    "ur_pk": {
+      "name": "Urdu",
+      "region": "Pakistan",
+      "bidirectional": true
+    },
+    "id_id": {
+      "name": "Indonesian",
+      "region": "Indonesia",
+      "bidirectional": false
+    },
+    "de_de": {
+      "name": "German",
+      "region": "Germany",
+      "bidirectional": false
+    },
+    "ja_jp": {
+      "name": "Japanese",
+      "region": "Japan",
+      "bidirectional": false
+    },
+    "mr_in": {
+      "name": "Marathi",
+      "region": "India",
+      "bidirectional": false
+    },
+    "vi_vn": {
+      "name": "Vietnamese",
+      "region": "Vietnam",
+      "bidirectional": false
+    },
+    "te_in": {
+      "name": "Telugu",
+      "region": "India",
+      "bidirectional": false
+    },
+    "ha_ng": {
+      "name": "Hausa",
+      "region": "Nigeria",
+      "bidirectional": false
+    },
+    "tr_tr": {
+      "name": "Turkish",
+      "region": "Turkiye",
+      "bidirectional": false
+    },
+    "pa_in": {
+      "name": "Punjabi",
+      "region": "India",
+      "bidirectional": false
+    },
+    "sw_ke": {
+      "name": "Swahili",
+      "region": "Kenya",
+      "bidirectional": false
+    },
+    "ta_in": {
+      "name": "Tamil",
+      "region": "India",
+      "bidirectional": false
+    },
+    "ko_kr": {
+      "name": "Korean",
+      "region": "South Korea",
+      "bidirectional": false
+    },
+    "th_th": {
+      "name": "Thai",
+      "region": "Thailand",
+      "bidirectional": false
+    },
+    "fa_ir": {
+      "name": "Persian",
+      "region": "Iran",
+      "bidirectional": true
+    },
+    "gu_in": {
+      "name": "Gujarati",
+      "region": "India",
+      "bidirectional": false
+    },
+    "jv_id": {
+      "name": "Javanese",
+      "region": "Indonesia",
+      "bidirectional": false
+    },
+    "kn_in": {
+      "name": "Kannada",
+      "region": "India",
+      "bidirectional": false
+    },
+    "it_it": {
+      "name": "Italian",
+      "region": "Italy",
+      "bidirectional": false
+    },
+    "pl_pl": {
+      "name": "Polish",
+      "region": "Poland",
+      "bidirectional": false
+    },
+    "ml_in": {
+      "name": "Malayalam",
+      "region": "India",
+      "bidirectional": false
+    }
+  }
+}
